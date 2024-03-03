@@ -1,6 +1,4 @@
-package EserciziCodeGrind.classi.polimorfismo;
-
-import java.util.PrimitiveIterator;
+package EserciziCodeGrind.classi.polimorfismo.figure;
 
 public class Cerchio extends Figura{
 

@@ -1,4 +1,4 @@
-package EserciziCodeGrind.classi.polimorfismo;
+package EserciziCodeGrind.classi.polimorfismo.figure;
 
 public class Figura {
     public int calcolaArea() {

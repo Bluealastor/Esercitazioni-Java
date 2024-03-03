@@ -1,2 +1,6 @@
-package EserciziCodeGrind.classi.polimorfismo.animali;public class Animali {
+package EserciziCodeGrind.classi.polimorfismo.animali;
+
+public abstract class Animali {
+
+    public abstract void emettiSuono();
 }

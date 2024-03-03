@@ -1,4 +1,4 @@
-package EserciziCodeGrind.interfacce;
+package EserciziCodeGrind.interfacce.automobile;
 
 public interface Movable {
 

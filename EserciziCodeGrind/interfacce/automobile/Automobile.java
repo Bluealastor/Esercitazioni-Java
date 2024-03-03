@@ -1,6 +1,4 @@
-package EserciziCodeGrind.interfacce;
-
-import java.security.AuthProvider;
+package EserciziCodeGrind.interfacce.automobile;
 
 public class Automobile implements Movable {
 
